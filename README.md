@@ -9,4 +9,4 @@
 - **Web:** JavaScript, HTML, CSS
 - **Data:** MongoDB, MySQL
 
-Currently working on [Grand Theft Hotdog](link) and other questionable projects 🌭
+Currently working on [Grand Theft Hotdog](https://kyremworks.itch.io/grand-theft-hotdog) and other questionable projects 🌭
